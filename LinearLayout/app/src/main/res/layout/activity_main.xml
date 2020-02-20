@@ -14,7 +14,10 @@
         android:layout_weight="1"
         android:background="#FF6347"
         >
+
     </LinearLayout>
+
+
 
     <LinearLayout
         android:layout_width="90dp"
@@ -22,5 +25,8 @@
         android:layout_weight="1"
         android:background="#DCDBDB"
         >
+
     </LinearLayout>
+
+
 </LinearLayout>

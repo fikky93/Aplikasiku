@@ -23,4 +23,8 @@ public class LoginActivity extends AppCompatActivity {
 		Intent intent = new Intent(this, SuccessLoginActivity.class);
 		startActivity(intent);
 	}
+	public void homme(View view){
+		Intent intent = new Intent(this, WelcomeActivity.class);
+		startActivity(intent);
+	}
 }
